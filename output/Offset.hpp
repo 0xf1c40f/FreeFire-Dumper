@@ -2,6 +2,7 @@
 #include <cstdint>
 
 // example to use UnityEngine::Camera::get_fieldOfView
+// might be inacurrate
 namespace UnityEngine {
 namespace Camera {
 constexpr uintptr_t get_fieldOfView = 0x84073d8;
